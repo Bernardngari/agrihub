@@ -1,8 +1,15 @@
 #nav-bar{
     position: relative;
-    padding-left: 1000px;
     background-color: rgb(90, 146, 7);
-    padding-top: 10px;
-    padding-bottom: 10px;
-    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#logo{
+    background-color: rgb(5, 48, 5);
+    width: 170px;
+}
+.logo-image{
+    width: 82px;
+    height: 57px;
+    padding-right: 10px;
 }
